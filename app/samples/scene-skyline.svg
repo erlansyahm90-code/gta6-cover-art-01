@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <defs>
+    <linearGradient id="dsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f97316"/><stop offset=".5" stop-color="#f43f5e"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="dsea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#dsky)"/>
+  <circle cx="450" cy="300" r="120" fill="#fde68a"/>
+  <g fill="#f43f5e">
+    <rect x="322" y="300" width="256" height="9"/><rect x="314" y="328" width="272" height="11"/>
+    <rect x="308" y="360" width="284" height="14"/><rect x="304" y="396" width="292" height="17"/>
+  </g>
+  <rect y="420" width="900" height="180" fill="url(#dsea)"/>
+  <g fill="#fde68a" opacity=".75">
+    <rect x="390" y="438" width="120" height="6" rx="3"/><rect x="370" y="462" width="160" height="6" rx="3"/>
+    <rect x="405" y="488" width="90" height="5" rx="2.5"/><rect x="380" y="516" width="140" height="6" rx="3"/>
+  </g>
+  <g fill="#0f0a24">
+    <rect x="0" y="330" width="80" height="270"/><rect x="95" y="260" width="70" height="340"/>
+    <rect x="180" y="310" width="90" height="290"/><rect x="285" y="230" width="60" height="370"/>
+    <rect x="360" y="300" width="80" height="300"/><rect x="560" y="280" width="70" height="320"/>
+    <rect x="645" y="230" width="60" height="370"/><rect x="720" y="300" width="85" height="300"/>
+    <rect x="820" y="260" width="80" height="340"/>
+    <polygon points="285,230 315,190 345,230"/><polygon points="645,230 675,185 705,230"/>
+    <rect x="312" y="170" width="6" height="26"/><rect x="672" y="165" width="6" height="26"/>
+  </g>
+  <g fill="#fde047" opacity=".9">
+    <rect x="14" y="350" width="10" height="12"/><rect x="38" y="350" width="10" height="12"/>
+    <rect x="108" y="280" width="10" height="12"/><rect x="132" y="280" width="10" height="12"/>
+    <rect x="108" y="310" width="10" height="12"/><rect x="196" y="330" width="10" height="12"/>
+    <rect x="232" y="330" width="10" height="12"/><rect x="298" y="250" width="10" height="12"/>
+    <rect x="322" y="250" width="10" height="12"/><rect x="574" y="300" width="10" height="12"/>
+    <rect x="600" y="300" width="10" height="12"/><rect x="658" y="250" width="10" height="12"/>
+    <rect x="682" y="250" width="10" height="12"/><rect x="736" y="320" width="10" height="12"/>
+    <rect x="770" y="320" width="10" height="12"/><rect x="834" y="280" width="10" height="12"/>
+    <rect x="860" y="280" width="10" height="12"/>
+  </g>
+  <g stroke="#0f0a24" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M60 600 C 66 540 64 500 70 460"/>
+    <path d="M850 600 C 844 540 846 500 840 460"/>
+  </g>
+  <g fill="#0f0a24">
+    <path d="M70 460 C 30 425 8 425 -5 442 C 28 442 52 450 70 466 Z"/>
+    <path d="M70 460 C 80 405 112 396 132 408 C 106 416 86 434 70 466 Z"/>
+    <path d="M840 460 C 880 425 902 425 915 442 C 882 442 858 450 840 466 Z"/>
+    <path d="M840 460 C 830 405 798 396 778 408 C 804 416 824 434 840 466 Z"/>
+  </g>
+</svg>

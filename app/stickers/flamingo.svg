@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Bold side-profile flamingo: white halo, pink body, S-curved neck. -->
+  <g fill="#ffffff">
+    <ellipse cx="92" cy="118" rx="62" ry="40"/>
+    <path d="M128 96 C 140 60 150 40 168 34 C 178 30 186 36 184 44 C 182 54 168 58 158 66 C 146 76 140 92 138 108 Z"/>
+    <rect x="78" y="140" width="14" height="52" rx="7"/>
+    <rect x="104" y="140" width="14" height="52" rx="7"/>
+  </g>
+  <g>
+    <rect x="82" y="142" width="8" height="46" rx="4" fill="#ec4899"/>
+    <rect x="106" y="142" width="8" height="46" rx="4" fill="#db2777"/>
+    <path d="M76 186 h20 M100 186 h20" stroke="#ec4899" stroke-width="7" stroke-linecap="round"/>
+    <ellipse cx="92" cy="118" rx="54" ry="33" fill="#f472b6"/>
+    <ellipse cx="80" cy="110" rx="34" ry="20" fill="#f9a8d4"/>
+    <path d="M128 100 C 138 64 148 44 166 38 C 176 34 184 40 182 48 C 180 58 166 60 158 68 C 146 78 140 94 136 110 Z" fill="#f472b6"/>
+    <circle cx="168" cy="40" r="12" fill="#f472b6"/>
+    <path d="M178 38 L 194 44 L 178 50 Z" fill="#f59e0b" stroke="#b45309" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="166" cy="36" r="3.4" fill="#1f2937"/>
+    <path d="M52 108 C 66 96 84 94 96 102 C 82 102 66 106 56 114 Z" fill="#be185d"/>
+  </g>
+</svg>
